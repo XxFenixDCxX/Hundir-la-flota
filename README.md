@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de un README para tu proyecto de "Hundir la Flota" hecho en Java con comunicación TCP:
-
----
-
 # Hundir la Flota TCP
 
 Este es un juego de "Hundir la Flota" implementado en Java utilizando comunicación TCP para permitir que dos jugadores compitan entre sí en diferentes máquinas.
